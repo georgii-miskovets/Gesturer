@@ -1,0 +1,9 @@
+torch
+torchvision
+plyer
+glob2
+tqdm
+onnxruntime
+opencv-python
+PyQt5
+numpy
